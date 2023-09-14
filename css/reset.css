@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    font-family: Ebrima;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    color: #eeeeee;
+    background-color: #111111;
+}
